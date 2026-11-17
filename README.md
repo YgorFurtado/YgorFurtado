@@ -45,7 +45,7 @@
 | :--- | :--- | :--- |
 | **[Random Forest](https://github.com/YgorFurtado/Random-Forest)** | Implementation of a machine learning algorithm that combines multiple decision trees to classify data.[cite: 1] | `Machine Learning` `Algorithms` |
 | **[Transportation Network Analysis](https://github.com/YgorFurtado/sbc-bus-network-analysis)** | Modeled a transportation network as a connection graph to identify efficient routes, pinpoint critical system bottlenecks, and propose infrastructure improvements. | `Graph Theory` `Network Analysis` |
-| **[Smoke Detector](https://github.com/YgorFurtado/DetectorSmoke)** *(2023–2024)* | Team-built functional prototype that detects smoke using a sensor and Arduino, paired with an interface to monitor operation. | `Arduino` `Embedded Systems` |
+| **[Smoke Detector](https://github.com/YgorFurtado/DetectorSmoke)** | Team-built functional prototype that detects smoke using a sensor and Arduino, paired with an interface to monitor operation. | `Arduino` `Embedded Systems` |
 
 ---
 
