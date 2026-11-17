@@ -1,7 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Ygor+Furtado+%F0%9F%91%8B;Computer+Science+%26+Science+and+Technology+%40+UFABC;Software+Development+%7C+Graph+Analysis+%7C+Arduino" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=480&lines=Hi+there%2C+I'm+Ygor+Furtado" alt="Typing SVG" />
+</div>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=YgorFurtado&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
